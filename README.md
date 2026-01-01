@@ -9,6 +9,7 @@ PayZen is a digital financial platform empowering individuals across Africa to t
 
 Digital loan recovery campaigns at PayZen rely heavily on automated SMS and WhatsApp reminders. However, repayment rates in early-stage delinquency remain inconsistent, and it is unclear which message framing most effectively motivates customers to take action. Current campaigns use generic reminder language, which may not resonate equally across customer segments or behavioral contexts. This results in the following baseline KPI standings:
 
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴 - Check these - didnt use Avg time to repay
  - Repayment Rate: 48%
  - Repayment Mix: 65% Partial | 35% Full
  - Response Rate: 15%
