@@ -64,7 +64,7 @@ REPAYMENT
 
 Relevant relationships were then established between the above table to produce the following data model:
  <p align="center">
- <img alt="Data Model" src="Screenshot (528).png" width="60%" />
+ <img alt="Data Model" src="Images/Screenshot (528).png" width="60%" />
  </p>
 
 
