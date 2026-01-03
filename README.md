@@ -7,6 +7,13 @@
 # PAYZEN
 PayZen is a digital financial platform empowering individuals across Africa to take control of their finances with ease. From managing repayments and accessing instant loans to making smart investments, PayZen simplifies financial decisions with transparency, flexibility, and innovative technology, with a mission to create financial freedom and inclusion for everyone, whether in city centers or rural communities
 
+## Dashboard Overview
+<h1 align="center">Dashboard Overview</h1>
+<p align="center">
+   <img src="Images/AB_testing_dashboard.png" 
+        alt="Dashboard" width="60%" />
+</p>
+
 ## Problem Statement
 
 Digital loan recovery campaigns at PayZen rely heavily on automated WhatsApp reminders. However, repayment rates in early-stage delinquency remain inconsistent, and it is unclear which message framing most effectively motivates customers to take action. Current campaigns use generic reminder language, which may not resonate equally across customer segments or behavioral contexts. This results in the following baseline KPI standings:
@@ -18,6 +25,7 @@ Digital loan recovery campaigns at PayZen rely heavily on automated WhatsApp rem
 ## Campaign Objective
 
 To assess the effect of changes in message framing on loan repayment rates in early-stage delinquency (1–7 days past due), while maintaining a positive customer experience.
+
 
 ## Hypothesis
 
